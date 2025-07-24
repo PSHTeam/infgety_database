@@ -1,12 +1,11 @@
 name: infgety_database
-description: A starting point for Dart libraries or applications.
+description: Dart library for secure data, HTTP utilities, and contact management with Infgety database integration.
 version: 1.0.0
 repository: https://github.com/PSHTeam/infgety_database.git
 
 environment:
   sdk: ^3.8.1
 
-# Add regular dependencies here.
 dependencies:
   encrypt: ^5.0.3
   http: ^1.4.0
